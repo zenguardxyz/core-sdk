@@ -1,0 +1,28 @@
+{
+  "name": "@zenguard/core-sdk",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "dist/"
+  ],
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@rhinestone/module-sdk": "^0.1.7",
+    "@safe-global/api-kit": "^2.4.3",
+    "@safe-global/protocol-kit": "^4.0.3",
+    "@zenguard/core-sdk": "^1.0.2"
+  }
+}
