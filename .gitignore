@@ -1,0 +1,8 @@
+build/
+node_modules/
+.DS_Store
+.zos.session
+.vite/
+dist/
+.env
+typechain-types/
